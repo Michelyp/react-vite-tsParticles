@@ -6,7 +6,8 @@ import particlesConfig from "../config/particles-config";
 
 function BackgroundParticle() {
   async function particlesInit(main) {
-    //puede inicializar la instancia de tsParticles (main) aquí, agregando formas personalizadas o ajustes preestablecidos
+    //puede inicializar la instancia de tsParticles (main) aquí, agregando 
+    //formas personalizadas o ajustes preestablecidos
     //Esto carga el paquete de TSParticles, es el método más fácil para tener todo listo
     await loadFull(main);
   }

@@ -8,7 +8,7 @@ function App() {
     <BackgroundParticle />
     </div>
       <div>
-        <PersonajesLista />
+        <PersonajesLista />    
       </div>
     </>
   );
